@@ -1,0 +1,53 @@
+<html>
+<body>
+<style>
+.header {
+    background-color:FF9966;
+    color:white;
+    text-align:center;
+    padding:0px;
+    font-family:arial;
+    font-size:15px;
+    height:130;
+}
+.nav {
+    line-height:30px;
+    background-color:FFCC66;
+    color:black;
+    height:500px;
+    width:150px;
+    float:left;
+    padding:15px; 
+    margin-left:10px;
+    font-family:宋体;
+    font-size:22px;
+    text-align: center;
+   
+}
+      
+.section {
+    background-color:transparent;
+    width:700px;
+    float:left;
+    padding:90px; 
+    font-size:19.5px;
+    color: black;
+    text-align: justify;
+    letter-spacing:1.4px;
+    margin-left: 100;
+    margin-top: -40;
+    
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    font-family: 黑体; 
+    color: darkorange;
+    letter-spacing:1px;
+}
+
+</style>
+</body>
+   </html>
+
+
